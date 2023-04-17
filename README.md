@@ -1,16 +1,7 @@
-# mvvm
+# MVVM - Model View ViewModel
 
-A new Flutter project.
+This is a mobile app developed following the MVVM pattern. The app uses APIs developed by myself as well and located at this <a href="https://github.com/loziohomer/mvvm-backend">link</a>. 
 
-## Getting Started
+2023-04-17
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="200px" src="https://h-lab.dev/images2/logo.png" alt="Logo" class="img-fluid">
